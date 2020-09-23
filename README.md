@@ -21,10 +21,6 @@ Welcome to my humble abode here on GitHub 👋 !
 
 Feel free to go through my projects, the good stuff though are private 😎 ...
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Yiddishe-Kop&count_private=true&show_icons=true" alt="Yehuda's GitHub Stats">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yiddishe-Kop&layout=compact)
-
 ### Some cool projects
 
 - 📝 I write some of my חידושים on my [blog](https://blog.yiddishe-kop.com).
@@ -34,6 +30,9 @@ Feel free to go through my projects, the good stuff though are private 😎 ...
 - 💎 Tabler icons viewer: https://icons.yiddishe-kop.com
 
 ### Tools I use
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Yiddishe-Kop&count_private=true&show_icons=true" alt="Yehuda's GitHub Stats">
+
 #### Programming Languages
 
 - PHP
@@ -43,6 +42,8 @@ Feel free to go through my projects, the good stuff though are private 😎 ...
 - HTML
 
 #### Frameworks
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yiddishe-Kop&layout=compact" alt="Yehuda's Top Langs">
 
 - Laravel (PHP)
 - Vue (JS)
