@@ -21,7 +21,7 @@ Welcome to my humble abode here on GitHub 👋 !
 
 Feel free to go through my projects, the good stuff though are private 😎 ...
 
-![Yehuda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yiddishe-Kop&count_private=true&show_icons=true)
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Yiddishe-Kop&count_private=true&show_icons=true" alt="Yehuda's GitHub Stats">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yiddishe-Kop&layout=compact)
 
