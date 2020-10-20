@@ -27,7 +27,7 @@ Feel free to go through my projects, the good stuff though are private 😎 ...
 
 - 📚 You can write **your** חידושים [here](https://pninim.yiddishe-kop.com)
 
-- 🛍 [Laravel Commerce](https://laravel-commerce.yiddishe-kop.com/) - an open-source plug & play ecommerce solution for Laravel.
+- 🛍 [Laravel Commerce](https://laravel-commerce.yiddishe-kop.com/) - an open-source plug & play ecommerce solution for Laravel [wip].
 
 - 💎 Tabler icons viewer: https://icons.yiddishe-kop.com
 
