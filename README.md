@@ -19,8 +19,6 @@ Shalom!
 
 I'm a passionate self-taught full-stack web developer from 🇮🇱 .
 
-Welcome to my humble abode here on GitHub 👋 !
-
 Feel free to go through my projects, the good stuff though are private 😎 ...
 
 ### Some cool projects
