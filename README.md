@@ -23,7 +23,7 @@ Feel free to go through my projects, the good stuff though are private 😎 ...
 
 ### Some cool projects
 
-- 📝 I write some of my חידושים on my [blog](https://blog.yiddishe-kop.com).
+- 📝 I write some of my חידושים [here](https://next.yiddishe-kop.com).
 
 - 📚 You can write **your** חידושים [here](https://pninim.yiddishe-kop.com)
 
